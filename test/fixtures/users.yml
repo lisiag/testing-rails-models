@@ -10,3 +10,8 @@ one:
 two:
   name: MyString
   email: MyString
+
+old:
+  name: Professor Binns
+  email: binns@hogwarts.edu.uk
+  created_at: <%= 2.weeks.ago %>
